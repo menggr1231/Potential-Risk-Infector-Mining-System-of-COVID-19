@@ -27,7 +27,7 @@ Start the main.exe:
 
 - select the database path to fill the ```Confirmed patient database path```
 
-- copy and paste the ```test trajectory``` from the file data_test.txt, then ```submit```
+- copy and paste the ```test trajectory``` from the file test*.txt, then ```submit```
 
 - get the ```infection risk results``` and ```warning instructions```
 

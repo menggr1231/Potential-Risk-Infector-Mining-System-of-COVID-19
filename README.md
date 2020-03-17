@@ -4,6 +4,8 @@ This repository holds the codebase, dataset and software of Potential Risk Infec
 
 The software takes the patients' trajectory in Harbin (Heilongjiang Province, China) as the sample database. After test trajectorys are input, the system outputs the risk estimation and warning instructions according to every spatio-temporal trajectory.
 
+The repository is still constantly updated.
+
 Author: Xiaohua Qian, Rui Guo, Xiahan Chen, Qingzhong Chen.
 
 <img src="./assets/initial.png" width = "600" alt="initial"/>
@@ -32,6 +34,17 @@ Run the ```main.py```:
 - get the ```infection risk results``` and ```warning instructions```
 
 <img src="./assets/result.png" width = "600" alt="result"/>
+
+## Cite
+Please consider citing our github webpage if this helps in your work:
+
+@misc{
+   title = "Potential-Risk-Infector-Mining-System-of-COVID-19",
+   author = {Xiaohua Qian, Rui Guo, Xiahan Chen, Qingzhong Chen},
+   howpublished = "Website",
+   year = {2020},
+   note = {\url{https://github.com/menggr1231/Potential-Risk-Infector-Mining-System-of-COVID-19}}
+}
 
 ## Acknowledgement
 Thanks for the open-source code (https://github.com/Gooong/TrajectoryMatching) based on high-performance spatiotemporal trajectory matching across heterogeneous data sources (Gong et al. 2020). Thanks for the spatio-temporal trajectory map (http://39.96.43.154) of COVID-19 patients in Harbin developed by the research center for social computing and information retrieval of Harbin Institute of Technology (HIT-SCIR).

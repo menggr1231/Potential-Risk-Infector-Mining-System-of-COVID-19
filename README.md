@@ -19,7 +19,7 @@ The software requires the user to select the patients' trajectory database to ma
 ## Demo
 To quickly run the demo **main.exe**
 
-make sure you have the demo database file **data.txt** and **test*.txt** from data fold
+make sure you have the demo database file **data.txt** and **test1-3.txt** from data fold
 
 Start the main.exe:
 

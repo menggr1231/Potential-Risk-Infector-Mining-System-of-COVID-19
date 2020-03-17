@@ -21,7 +21,7 @@ To quickly run the demo **main.py**
 
 make sure you have the demo database file **data.txt** and **test1-3.txt** from data folder
 
-Start the main.exe:
+Run the ```main.py```:
 
 - input the ```JDK path``` (e.g. D:\Program Files\Java\jdk1.8.0_241)
 

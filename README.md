@@ -17,7 +17,7 @@ Our codebase is based on **Python3.7**. There are a few dependencies to run the 
 The software requires the user to select the patients' trajectory database to match the test dataset. The software will automatically convert them into the location coordinates encoded by longitude and latitude and timestamps. User then input the spatio-temporal trajectory of test sample, including location and time of start and end, for infection risk assessment (Red light indicates high risk. Yellow light indicates medium risk. Gellow light indicates low risk).
 
 ## Demo
-To quickly run the demo **main.exe**
+To quickly run the demo **main.py**
 
 make sure you have the demo database file **data.txt** and **test1-3.txt** from data folder
 
